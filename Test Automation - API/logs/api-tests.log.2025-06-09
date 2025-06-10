@@ -1,0 +1,15 @@
+
+2025-06-09 02:11:47 WARN  ApiTestHelper:18 - Beklenen 405 yerine 200 döndü — API hatası olabilir.
+2025-06-09 02:11:50 WARN  ApiTestHelper:18 - Beklenen 400 yerine 200 döndü — API hatası olabilir.
+2025-06-09 02:11:51 WARN  ApiTestHelper:18 - Beklenen 405 yerine 404 döndü — API hatası olabilir.
+2025-06-09 02:11:52 WARN  ApiTestHelper:18 - Beklenen 400 yerine 200 döndü — API hatası olabilir.
+2025-06-09 02:11:52 WARN  ApiTestHelper:18 - Beklenen 404 yerine 200 döndü — API hatası olabilir.
+2025-06-09 02:11:53 WARN  ApiTestHelper:18 - Beklenen 405 yerine 200 döndü — API hatası olabilir.
+2025-06-09 02:12:40 WARN  ApiTestHelper:18 - Beklenen 200 yerine 404 döndü — API hatası olabilir.
+2025-06-09 02:13:22 WARN  ApiTestHelper:18 - Beklenen 405 yerine 200 döndü — API hatası olabilir.
+2025-06-09 02:13:25 WARN  ApiTestHelper:18 - Beklenen 400 yerine 200 döndü — API hatası olabilir.
+2025-06-09 02:13:26 WARN  ApiTestHelper:18 - Beklenen 405 yerine 200 döndü — API hatası olabilir.
+2025-06-09 02:13:26 WARN  ApiTestHelper:18 - Beklenen 400 yerine 200 döndü — API hatası olabilir.
+2025-06-09 02:13:27 WARN  ApiTestHelper:18 - Beklenen 404 yerine 200 döndü — API hatası olabilir.
+2025-06-09 02:13:28 WARN  ApiTestHelper:18 - Beklenen 405 yerine 200 döndü — API hatası olabilir.
+2025-06-09 02:13:38 WARN  ApiTestHelper:18 - Beklenen 200 yerine 404 döndü — API hatası olabilir.

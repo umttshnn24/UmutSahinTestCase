@@ -1,0 +1,1064 @@
+2025-06-05 05:09:02 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:09:08 INFO  InsiderWebUITest:35 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:09:08 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:09:08 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:09:08 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:09:08 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:09:08 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:09:08 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:09:08 INFO  InsiderWebUITest:38 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:09:08 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:09:08 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:09:10 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:09:10 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:09:10 INFO  InsiderWebUITest:41 - Career sayfası kontrol ediliyor.
+2025-06-05 05:09:10 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:09:10 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:09:12 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:09:12 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:09:12 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:09:12 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:09:12 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:09:12 INFO  InsiderWebUITest:44 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:09:12 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:09:12 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:09:12 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:09:13 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:09:13 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:09:13 INFO  InsiderWebUITest:47 - İş filtreleri uygulanıyor.
+2025-06-05 05:09:18 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:09:18 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:09:18 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:09:19 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:09:19 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:09:19 INFO  InsiderWebUITest:50 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:09:19 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:09:19 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:09:19 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:09:19 INFO  InsiderWebUITest:53 - İş detayları kontrol ediliyor.
+2025-06-05 05:09:19 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:09:19 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:09:19 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:09:19 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:09:19 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:09:19 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:09:19 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:09:19 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:09:19 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:09:19 ERROR BaseMethods:170 - Item 1 text 'Istanbul, Turkiye' does not contain expected value: Istanbul, Turkey
+2025-06-05 05:09:58 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:10:04 INFO  InsiderWebUITest:35 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:10:04 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:10:04 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:10:04 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:10:04 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:10:04 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:10:04 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:10:04 INFO  InsiderWebUITest:38 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:10:04 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:10:04 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:10:05 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:10:05 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:10:05 INFO  InsiderWebUITest:41 - Career sayfası kontrol ediliyor.
+2025-06-05 05:10:06 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:10:06 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:10:08 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:10:08 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:10:08 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:10:08 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:10:08 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:10:08 INFO  InsiderWebUITest:44 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:10:08 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:10:08 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:10:08 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:10:09 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:10:09 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:10:09 INFO  InsiderWebUITest:47 - İş filtreleri uygulanıyor.
+2025-06-05 05:10:13 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:10:13 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:10:13 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:10:14 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:10:14 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:10:14 INFO  InsiderWebUITest:50 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:10:14 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:10:14 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:10:14 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:10:14 INFO  InsiderWebUITest:53 - İş detayları kontrol ediliyor.
+2025-06-05 05:10:14 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:10:14 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:10:14 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:10:14 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:10:14 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:10:14 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:10:14 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:10:14 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:10:14 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:10:14 ERROR BaseMethods:170 - Item 1 text 'Istanbul, Turkiye' does not contain expected value: Istanbul, Turkey
+2025-06-05 05:10:49 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:10:54 INFO  InsiderWebUITest:35 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:10:54 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:10:54 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:10:54 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:10:54 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:10:54 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:10:54 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:10:54 INFO  InsiderWebUITest:38 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:10:55 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:10:55 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:10:56 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:10:56 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:10:56 INFO  InsiderWebUITest:41 - Career sayfası kontrol ediliyor.
+2025-06-05 05:10:56 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:10:56 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:10:58 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:10:58 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:10:58 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:10:58 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:10:58 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:10:58 INFO  InsiderWebUITest:44 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:10:58 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:10:58 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:10:58 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:10:59 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:10:59 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:10:59 INFO  InsiderWebUITest:47 - İş filtreleri uygulanıyor.
+2025-06-05 05:11:04 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:11:04 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:11:04 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:11:05 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:11:05 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:11:05 INFO  InsiderWebUITest:50 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:11:05 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:11:05 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:11:05 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:11:05 INFO  InsiderWebUITest:53 - İş detayları kontrol ediliyor.
+2025-06-05 05:11:05 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:11:05 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:11:05 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:11:05 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:11:05 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:11:05 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:11:05 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:11:05 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:11:05 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:11:05 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:11:05 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:11:05 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:11:05 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 05:11:06 INFO  InsiderWebUITest:56 - İşin detay sayfasına gidiliyor.
+2025-06-05 05:11:06 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:11:07 INFO  BaseMethods:232 - viewRoleButton element was hovered
+2025-06-05 05:11:07 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:11:07 INFO  BaseMethods:244 - viewRoleButton element clicked
+2025-06-05 05:11:07 INFO  SearchPage:43 - Seçilen Job ekranına gidiliyor
+2025-06-05 05:11:07 INFO  InsiderWebUITest:59 - İş detay sayfası kontrol ediliyor.
+2025-06-05 05:11:07 INFO  BaseMethods:91 - Switched to second tab.
+2025-06-05 05:11:10 INFO  BaseMethods:47 - jobTitleInJobPage waited until visible.
+2025-06-05 05:13:21 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:13:27 INFO  InsiderWebUITest:35 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:13:27 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:13:27 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:13:27 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:13:27 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:13:27 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:13:27 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:13:27 INFO  InsiderWebUITest:38 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:13:27 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:13:27 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:13:29 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:13:29 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:13:29 INFO  InsiderWebUITest:41 - Career sayfası kontrol ediliyor.
+2025-06-05 05:13:29 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:13:29 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:13:31 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:13:31 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:13:31 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:13:31 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:13:31 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:13:31 INFO  InsiderWebUITest:44 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:13:31 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:13:31 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:13:31 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:13:32 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:13:32 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:13:32 INFO  InsiderWebUITest:47 - İş filtreleri uygulanıyor.
+2025-06-05 05:13:36 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:13:36 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:13:36 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:13:37 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:13:37 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:13:37 INFO  InsiderWebUITest:50 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:13:37 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:13:37 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:13:37 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:13:37 INFO  InsiderWebUITest:53 - İş detayları kontrol ediliyor.
+2025-06-05 05:13:37 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:13:37 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:13:37 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:13:37 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:13:37 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:13:37 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:13:37 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:13:37 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:13:37 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:13:37 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:13:37 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:13:37 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:13:37 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 05:13:38 INFO  InsiderWebUITest:56 - İşin detay sayfasına gidiliyor.
+2025-06-05 05:13:38 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:13:39 INFO  BaseMethods:232 - viewRoleButton element was hovered
+2025-06-05 05:13:39 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:13:39 INFO  BaseMethods:244 - viewRoleButton element clicked
+2025-06-05 05:13:39 INFO  SearchPage:43 - Seçilen Job ekranına gidiliyor
+2025-06-05 05:13:39 INFO  InsiderWebUITest:59 - İş detay sayfası kontrol ediliyor.
+2025-06-05 05:13:39 INFO  BaseMethods:91 - Switched to second tab.
+2025-06-05 05:13:48 INFO  BaseMethods:47 - jobTitleInJobPage waited until visible.
+2025-06-05 05:21:58 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:22:04 INFO  InsiderWebUITest:35 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:22:04 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:22:04 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:22:04 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:22:04 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:22:04 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:22:04 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:22:04 INFO  InsiderWebUITest:38 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:22:04 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:22:04 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:22:06 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:22:06 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:22:06 INFO  InsiderWebUITest:41 - Career sayfası kontrol ediliyor.
+2025-06-05 05:22:06 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:22:06 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:22:08 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:22:08 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:22:08 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:22:08 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:22:08 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:22:08 INFO  InsiderWebUITest:44 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:22:08 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:22:08 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:22:08 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:22:09 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:22:09 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:22:09 INFO  InsiderWebUITest:47 - İş filtreleri uygulanıyor.
+2025-06-05 05:22:15 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:22:15 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:22:16 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:22:17 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:22:17 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:22:17 INFO  InsiderWebUITest:50 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:22:17 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:22:17 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:22:17 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:22:17 INFO  InsiderWebUITest:53 - İş detayları kontrol ediliyor.
+2025-06-05 05:22:17 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:22:17 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:22:17 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:22:17 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:22:17 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:22:17 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:22:17 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:22:17 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:22:17 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:22:17 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:22:17 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:22:17 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:22:17 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 05:22:18 INFO  InsiderWebUITest:56 - İşin detay sayfasına gidiliyor.
+2025-06-05 05:22:18 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:22:18 INFO  BaseMethods:232 - viewRoleButton element was hovered
+2025-06-05 05:22:19 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:22:19 INFO  BaseMethods:244 - viewRoleButton element clicked
+2025-06-05 05:22:19 INFO  SearchPage:43 - Seçilen Job ekranına gidiliyor
+2025-06-05 05:22:19 INFO  InsiderWebUITest:59 - İş detay sayfası kontrol ediliyor.
+2025-06-05 05:22:19 INFO  BaseMethods:91 - Switched to second tab.
+2025-06-05 05:22:21 INFO  JobPage:28 - Lever iş başvuru formu sayfasına başarıyla yönlenildi.
+2025-06-05 05:22:21 INFO  InsiderWebUITest:62 - Test başarıyla tamamlandı.
+2025-06-05 05:23:04 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:23:11 INFO  InsiderWebUITest:35 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:23:11 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:23:12 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:23:12 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:23:12 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:23:12 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:23:12 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:23:12 INFO  InsiderWebUITest:38 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:23:12 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:23:12 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:23:15 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:23:15 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:23:15 INFO  InsiderWebUITest:41 - Career sayfası kontrol ediliyor.
+2025-06-05 05:23:15 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:23:15 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:23:17 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:23:17 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:23:17 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:23:17 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:23:17 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:23:17 INFO  InsiderWebUITest:44 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:23:18 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:23:18 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:23:18 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:23:18 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:23:18 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:23:18 INFO  InsiderWebUITest:47 - İş filtreleri uygulanıyor.
+2025-06-05 05:23:22 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:23:22 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:23:22 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:23:23 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:23:23 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:23:23 INFO  InsiderWebUITest:50 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:23:23 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:23:23 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:23:23 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:23:23 INFO  InsiderWebUITest:53 - İş detayları kontrol ediliyor.
+2025-06-05 05:23:24 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:23:24 ERROR BaseMethods:170 - Item 1 text 'Account Director' does not contain expected value: Quality Assurance
+2025-06-05 05:24:04 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:24:09 INFO  InsiderWebUITest:35 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:24:09 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:24:09 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:24:09 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:24:09 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:24:09 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:24:09 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:24:09 INFO  InsiderWebUITest:38 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:24:09 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:24:09 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:24:11 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:24:11 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:24:11 INFO  InsiderWebUITest:41 - Career sayfası kontrol ediliyor.
+2025-06-05 05:24:11 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:24:11 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:24:13 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:24:13 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:24:13 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:24:13 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:24:13 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:24:13 INFO  InsiderWebUITest:44 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:24:14 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:24:14 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:24:14 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:24:14 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:24:14 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:24:14 INFO  InsiderWebUITest:47 - İş filtreleri uygulanıyor.
+2025-06-05 05:24:18 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:24:18 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:24:18 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:24:19 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:24:19 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:24:19 INFO  InsiderWebUITest:50 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:24:19 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:24:19 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:24:19 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:24:19 INFO  InsiderWebUITest:53 - İş detayları kontrol ediliyor.
+2025-06-05 05:24:19 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:24:19 ERROR BaseMethods:170 - Item 1 text '' does not contain expected value: Quality Assurance
+2025-06-05 05:25:09 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:25:15 INFO  InsiderWebUITest:35 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:25:15 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:25:15 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:25:15 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:25:15 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:25:15 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:25:15 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:25:15 INFO  InsiderWebUITest:38 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:25:15 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:25:15 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:25:17 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:25:17 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:25:17 INFO  InsiderWebUITest:41 - Career sayfası kontrol ediliyor.
+2025-06-05 05:25:17 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:25:17 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:25:19 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:25:19 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:25:19 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:25:19 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:25:19 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:25:19 INFO  InsiderWebUITest:44 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:25:20 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:25:20 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:25:21 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:25:21 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:25:21 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:25:21 INFO  InsiderWebUITest:47 - İş filtreleri uygulanıyor.
+2025-06-05 05:25:25 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:25:25 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:25:25 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:25:26 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:25:26 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:25:26 INFO  InsiderWebUITest:50 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:25:26 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:25:26 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:25:26 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:25:26 INFO  InsiderWebUITest:53 - İş detayları kontrol ediliyor.
+2025-06-05 05:25:26 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:25:26 ERROR BaseMethods:170 - Item 1 text 'Account Director' does not contain expected value: Quality Assurance
+2025-06-05 05:25:59 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:26:04 INFO  InsiderWebUITest:35 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:26:04 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:26:05 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:26:05 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:26:05 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:26:05 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:26:05 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:26:05 INFO  InsiderWebUITest:38 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:26:05 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:26:05 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:26:06 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:26:06 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:26:06 INFO  InsiderWebUITest:41 - Career sayfası kontrol ediliyor.
+2025-06-05 05:26:06 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:26:06 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:26:08 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:26:08 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:26:08 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:26:08 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:26:08 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:26:08 INFO  InsiderWebUITest:44 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:26:09 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:26:09 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:26:09 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:26:09 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:26:09 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:26:09 INFO  InsiderWebUITest:47 - İş filtreleri uygulanıyor.
+2025-06-05 05:26:14 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:26:14 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:26:14 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:26:15 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:26:15 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:26:15 INFO  InsiderWebUITest:50 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:26:15 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:26:15 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:26:15 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:26:15 INFO  InsiderWebUITest:53 - İş detayları kontrol ediliyor.
+2025-06-05 05:26:15 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:26:15 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:26:15 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:26:15 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:26:15 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:26:15 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:26:15 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:26:15 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:26:15 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:26:15 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:26:15 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:26:15 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:26:15 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 05:26:16 INFO  InsiderWebUITest:56 - İşin detay sayfasına gidiliyor.
+2025-06-05 05:26:16 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:26:17 INFO  BaseMethods:232 - viewRoleButton element was hovered
+2025-06-05 05:26:17 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:26:17 INFO  BaseMethods:244 - viewRoleButton element clicked
+2025-06-05 05:26:17 INFO  SearchPage:40 - Seçilen Job ekranına gidiliyor
+2025-06-05 05:26:17 INFO  InsiderWebUITest:59 - İş detay sayfası kontrol ediliyor.
+2025-06-05 05:26:17 INFO  BaseMethods:91 - Switched to second tab.
+2025-06-05 05:26:20 INFO  JobPage:26 - İş başvuru formu sayfasına başarıyla yönlenildi.
+2025-06-05 05:26:20 INFO  InsiderWebUITest:62 - Test başarıyla tamamlandı.
+2025-06-05 05:30:40 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:30:46 INFO  InsiderWebUITest:35 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:30:46 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:30:46 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:30:46 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:30:46 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:30:46 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:30:46 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:30:46 INFO  InsiderWebUITest:38 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:30:46 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:30:46 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:30:47 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:30:47 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:30:47 INFO  InsiderWebUITest:41 - Career sayfası kontrol ediliyor.
+2025-06-05 05:30:47 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:30:47 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:30:49 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:30:49 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:30:49 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:30:49 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:30:49 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:30:49 INFO  InsiderWebUITest:44 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:30:49 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:30:49 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:30:49 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:30:50 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:30:50 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:30:50 INFO  InsiderWebUITest:47 - İş filtreleri uygulanıyor.
+2025-06-05 05:30:55 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:30:55 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:30:55 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:30:56 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:30:56 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:30:56 INFO  InsiderWebUITest:50 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:30:56 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:30:56 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:30:56 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:30:56 INFO  InsiderWebUITest:53 - İş detayları kontrol ediliyor.
+2025-06-05 05:30:56 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:30:56 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:30:56 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:30:56 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:30:56 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:30:56 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:30:56 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:30:56 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:30:56 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:30:56 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:30:56 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:30:56 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:30:56 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 05:30:57 INFO  InsiderWebUITest:56 - İşin detay sayfasına gidiliyor.
+2025-06-05 05:30:57 INFO  BaseMethods:28 - Size of job list updated to: 12
+2025-06-05 05:30:58 INFO  BaseMethods:232 - viewRoleButton element was hovered
+2025-06-05 05:30:58 INFO  BaseMethods:28 - Size of job list updated to: 12
+2025-06-05 05:30:58 INFO  BaseMethods:244 - viewRoleButton element clicked
+2025-06-05 05:30:58 INFO  SearchPage:40 - Seçilen Job ekranına gidiliyor
+2025-06-05 05:30:58 INFO  InsiderWebUITest:59 - İş detay sayfası kontrol ediliyor.
+2025-06-05 05:30:58 INFO  BaseMethods:91 - Switched to second tab.
+2025-06-05 05:31:05 INFO  JobLeverPage:26 - İş başvuru formu sayfasına başarıyla yönlenildi.
+2025-06-05 05:31:05 INFO  InsiderWebUITest:62 - Test başarıyla tamamlandı.
+2025-06-05 05:34:57 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:35:09 INFO  InsiderWebUITest:39 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:35:09 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:35:09 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:35:09 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:35:09 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:35:09 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:35:09 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:35:09 INFO  InsiderWebUITest:42 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:35:09 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:35:09 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:35:14 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:35:14 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:35:14 INFO  InsiderWebUITest:45 - Career sayfası kontrol ediliyor.
+2025-06-05 05:35:14 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:35:14 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:35:16 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:35:16 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:35:16 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:35:16 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:35:16 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:35:16 INFO  InsiderWebUITest:48 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:35:17 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:35:17 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:35:17 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:35:18 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:35:18 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:35:18 INFO  InsiderWebUITest:51 - İş filtreleri uygulanıyor.
+2025-06-05 05:36:03 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:36:08 INFO  InsiderWebUITest:39 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:36:08 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:36:08 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:36:08 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:36:08 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:36:08 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:36:08 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:36:08 INFO  InsiderWebUITest:42 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:36:08 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:36:08 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:36:10 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:36:10 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:36:10 INFO  InsiderWebUITest:45 - Career sayfası kontrol ediliyor.
+2025-06-05 05:36:10 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:36:10 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:36:12 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:36:12 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:36:12 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:36:12 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:36:12 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:36:12 INFO  InsiderWebUITest:48 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:36:13 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:36:13 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:36:13 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:36:14 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:36:14 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:36:14 INFO  InsiderWebUITest:51 - İş filtreleri uygulanıyor.
+2025-06-05 05:36:18 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:36:18 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:36:18 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:36:19 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:36:20 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:36:20 INFO  InsiderWebUITest:54 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:36:20 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:36:20 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:36:20 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:36:20 INFO  InsiderWebUITest:57 - İş detayları kontrol ediliyor.
+2025-06-05 05:36:20 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:36:20 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:36:20 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:36:20 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:36:20 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:36:20 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:36:20 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:36:20 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:36:20 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:36:20 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:36:20 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:36:20 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:36:20 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 05:36:21 INFO  InsiderWebUITest:60 - İşin detay sayfasına gidiliyor.
+2025-06-05 05:36:21 INFO  BaseMethods:28 - Size of job list updated to: 12
+2025-06-05 05:36:22 INFO  BaseMethods:232 - viewRoleButton element was hovered
+2025-06-05 05:36:22 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:46:26 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:46:31 INFO  InsiderWebUITest:39 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:46:31 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:46:31 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:46:31 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:46:31 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:46:31 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:46:31 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:46:31 INFO  InsiderWebUITest:42 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:46:31 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:46:31 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:46:33 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:46:33 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:46:33 INFO  InsiderWebUITest:45 - Career sayfası kontrol ediliyor.
+2025-06-05 05:46:33 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:46:33 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:46:35 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:46:35 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:46:35 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:46:35 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:46:35 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:46:35 INFO  InsiderWebUITest:48 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:46:36 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:46:36 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:46:36 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:46:37 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:46:37 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:46:37 INFO  InsiderWebUITest:51 - İş filtreleri uygulanıyor.
+2025-06-05 05:46:42 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:46:42 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:46:42 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:46:43 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:46:43 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:46:43 INFO  InsiderWebUITest:54 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:46:43 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:46:43 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:46:43 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:46:43 INFO  InsiderWebUITest:57 - İş detayları kontrol ediliyor.
+2025-06-05 05:46:43 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:46:43 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:46:43 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:46:43 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:46:43 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:46:43 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:46:43 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:46:43 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:46:43 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:46:43 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:46:43 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:46:43 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:46:43 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 05:46:44 INFO  InsiderWebUITest:60 - İşin detay sayfasına gidiliyor.
+2025-06-05 05:50:44 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:50:49 INFO  InsiderWebUITest:39 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:50:49 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:50:49 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:50:49 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:50:49 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:50:49 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:50:49 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:50:49 INFO  InsiderWebUITest:42 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:50:49 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:50:49 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:50:51 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:50:51 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:50:51 INFO  InsiderWebUITest:45 - Career sayfası kontrol ediliyor.
+2025-06-05 05:50:51 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:50:51 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:50:53 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:50:53 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:50:53 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:50:53 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:50:53 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:50:53 INFO  InsiderWebUITest:48 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:50:54 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:50:54 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:50:54 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:50:54 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:50:54 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:50:54 INFO  InsiderWebUITest:51 - İş filtreleri uygulanıyor.
+2025-06-05 05:50:58 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:50:58 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:50:59 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:51:00 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:51:00 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:51:00 INFO  InsiderWebUITest:54 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:51:00 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:51:00 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:51:00 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:51:00 INFO  InsiderWebUITest:57 - İş detayları kontrol ediliyor.
+2025-06-05 05:51:00 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:51:00 ERROR BaseMethods:170 - Item 1 text 'Account Director' does not contain expected value: Quality Assurance
+2025-06-05 05:51:18 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:51:23 INFO  InsiderWebUITest:39 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:51:23 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:51:24 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:51:24 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:51:24 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:51:24 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:51:24 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:51:24 INFO  InsiderWebUITest:42 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:51:24 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:51:24 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:51:25 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:51:25 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:51:25 INFO  InsiderWebUITest:45 - Career sayfası kontrol ediliyor.
+2025-06-05 05:51:25 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:51:25 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:51:27 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:51:27 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:51:27 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:51:27 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:51:27 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:51:27 INFO  InsiderWebUITest:48 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:51:28 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:51:28 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:51:28 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:51:29 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:51:29 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:51:29 INFO  InsiderWebUITest:51 - İş filtreleri uygulanıyor.
+2025-06-05 05:51:32 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:51:32 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:51:32 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:51:34 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:51:34 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:51:34 INFO  InsiderWebUITest:54 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:51:34 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:51:34 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:51:34 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:51:34 INFO  InsiderWebUITest:57 - İş detayları kontrol ediliyor.
+2025-06-05 05:51:34 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:51:34 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:51:34 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:51:34 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:51:34 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:51:34 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:51:34 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:51:34 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:51:34 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:51:34 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:51:34 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:51:34 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:51:34 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 05:51:35 INFO  InsiderWebUITest:60 - İşin detay sayfasına gidiliyor.
+2025-06-05 05:52:53 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:52:58 INFO  InsiderWebUITest:39 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:52:58 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:52:58 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:52:58 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:52:58 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:52:58 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:52:58 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:52:58 INFO  InsiderWebUITest:42 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:52:58 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:52:58 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:53:00 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:53:00 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:53:00 INFO  InsiderWebUITest:45 - Career sayfası kontrol ediliyor.
+2025-06-05 05:53:00 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:53:00 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:53:02 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:53:02 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:53:02 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:53:02 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:53:02 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:53:02 INFO  InsiderWebUITest:48 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:53:03 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:53:03 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:53:03 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:53:03 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:53:03 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:53:03 INFO  InsiderWebUITest:51 - İş filtreleri uygulanıyor.
+2025-06-05 05:53:07 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:53:07 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:53:07 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:53:08 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:53:08 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:53:08 INFO  InsiderWebUITest:54 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:53:08 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:53:08 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:53:08 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:53:08 INFO  InsiderWebUITest:57 - İş detayları kontrol ediliyor.
+2025-06-05 05:53:08 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:53:08 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:53:08 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:53:08 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:53:09 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:53:09 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:53:09 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:53:09 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:53:09 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:53:09 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:53:09 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:53:09 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:53:09 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 05:53:10 INFO  InsiderWebUITest:60 - İşin detay sayfasına gidiliyor.
+2025-06-05 05:53:42 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:53:47 INFO  InsiderWebUITest:39 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:53:47 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:53:47 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:53:47 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:53:47 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:53:47 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:53:47 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:53:47 INFO  InsiderWebUITest:42 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:53:47 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:53:47 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:53:49 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:53:49 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:53:49 INFO  InsiderWebUITest:45 - Career sayfası kontrol ediliyor.
+2025-06-05 05:53:49 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:53:49 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:53:51 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:53:51 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:53:51 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:53:51 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:53:51 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:53:51 INFO  InsiderWebUITest:48 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:53:51 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:53:51 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:53:51 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:53:52 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:53:52 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:53:52 INFO  InsiderWebUITest:51 - İş filtreleri uygulanıyor.
+2025-06-05 05:53:55 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:53:56 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:53:56 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:53:57 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:53:57 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:53:57 INFO  InsiderWebUITest:54 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:53:57 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:53:57 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:53:57 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:53:57 INFO  InsiderWebUITest:57 - İş detayları kontrol ediliyor.
+2025-06-05 05:53:57 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:53:57 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:53:57 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:53:57 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:53:57 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:53:57 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:53:57 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:53:57 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:53:57 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:53:57 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:53:57 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:53:57 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:53:57 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 05:53:58 INFO  InsiderWebUITest:60 - İşin detay sayfasına gidiliyor.
+2025-06-05 05:54:37 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:54:42 INFO  InsiderWebUITest:39 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:54:42 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:54:42 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:54:42 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:54:42 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:54:42 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:54:42 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:54:42 INFO  InsiderWebUITest:42 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:54:42 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:54:42 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:54:43 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:54:43 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:54:43 INFO  InsiderWebUITest:45 - Career sayfası kontrol ediliyor.
+2025-06-05 05:54:43 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:54:43 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:54:45 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:54:45 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:54:45 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:54:45 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:54:45 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:54:45 INFO  InsiderWebUITest:48 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:54:46 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:54:46 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:54:46 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:54:46 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:54:46 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:54:46 INFO  InsiderWebUITest:51 - İş filtreleri uygulanıyor.
+2025-06-05 05:54:51 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:54:51 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:54:51 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:54:52 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:54:52 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:54:52 INFO  InsiderWebUITest:54 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:54:52 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:54:52 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:54:52 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:54:52 INFO  InsiderWebUITest:57 - İş detayları kontrol ediliyor.
+2025-06-05 05:54:52 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:54:52 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:54:52 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:54:52 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:54:52 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:54:52 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:54:52 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:54:52 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:54:52 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:54:52 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:54:52 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:54:52 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:54:52 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 05:54:53 INFO  InsiderWebUITest:60 - İşin detay sayfasına gidiliyor.
+2025-06-05 05:56:46 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:56:52 INFO  InsiderWebUITest:39 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:56:52 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:56:52 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:56:52 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:56:52 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:56:52 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:56:52 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:56:52 INFO  InsiderWebUITest:42 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:56:52 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:56:52 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:56:53 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:56:53 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:56:53 INFO  InsiderWebUITest:45 - Career sayfası kontrol ediliyor.
+2025-06-05 05:56:53 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:56:53 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:56:55 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:56:55 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:56:55 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:56:55 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:56:55 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:56:55 INFO  InsiderWebUITest:48 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:56:55 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:56:55 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:56:55 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:56:56 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:56:56 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:56:56 INFO  InsiderWebUITest:51 - İş filtreleri uygulanıyor.
+2025-06-05 05:57:00 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:57:00 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:57:00 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:57:01 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:57:01 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:57:01 INFO  InsiderWebUITest:54 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:57:01 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:57:01 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:57:01 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:57:01 INFO  InsiderWebUITest:57 - İş detayları kontrol ediliyor.
+2025-06-05 05:57:02 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:57:02 ERROR BaseMethods:170 - Item 1 text 'Account Director' does not contain expected value: Quality Assurance
+2025-06-05 05:57:28 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 05:57:33 INFO  InsiderWebUITest:39 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 05:57:33 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:57:33 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 05:57:34 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 05:57:34 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 05:57:34 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 05:57:34 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 05:57:34 INFO  InsiderWebUITest:42 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 05:57:34 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 05:57:34 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 05:57:35 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 05:57:35 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 05:57:35 INFO  InsiderWebUITest:45 - Career sayfası kontrol ediliyor.
+2025-06-05 05:57:35 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 05:57:35 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 05:57:37 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 05:57:37 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 05:57:37 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 05:57:37 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 05:57:37 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 05:57:37 INFO  InsiderWebUITest:48 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 05:57:38 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 05:57:38 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 05:57:38 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 05:57:39 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 05:57:39 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 05:57:39 INFO  InsiderWebUITest:51 - İş filtreleri uygulanıyor.
+2025-06-05 05:57:43 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 05:57:43 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 05:57:43 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 05:57:44 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 05:57:44 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 05:57:44 INFO  InsiderWebUITest:54 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 05:57:44 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 05:57:44 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 05:57:44 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 05:57:44 INFO  InsiderWebUITest:57 - İş detayları kontrol ediliyor.
+2025-06-05 05:57:44 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 05:57:45 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:57:45 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 05:57:45 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:57:45 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 05:57:45 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:57:45 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 05:57:45 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:57:45 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 05:57:45 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:57:45 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 05:57:45 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:57:45 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 05:57:46 INFO  InsiderWebUITest:60 - İşin detay sayfasına gidiliyor.
+2025-06-05 05:57:46 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:57:47 INFO  BaseMethods:213 - viewRoleButton element was hovered
+2025-06-05 05:57:47 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 05:57:47 INFO  BaseMethods:225 - viewRoleButton element clicked
+2025-06-05 05:57:47 INFO  SearchPage:40 - Seçilen Job ekranına gidiliyor
+2025-06-05 05:57:47 INFO  InsiderWebUITest:63 - İş detay sayfası kontrol ediliyor.
+2025-06-05 05:57:47 INFO  BaseMethods:91 - Switched to second tab.
+2025-06-05 05:57:50 INFO  JobLeverPage:26 - İş başvuru formu sayfasına başarıyla yönlenildi.
+2025-06-05 05:57:50 INFO  InsiderWebUITest:66 - Test başarıyla tamamlandı.
+2025-06-05 23:39:04 INFO  root:20 - Logger yapılandırıldı. Log dosyası: logs/insider-automation_ui-test_2025-06-05.log
+2025-06-05 23:39:12 INFO  InsiderWebUITest:39 - Test başladı: HomePage kontrol ediliyor.
+2025-06-05 23:39:12 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 23:39:13 INFO  BaseMethods:34 - AcceptCookies element clicked.
+2025-06-05 23:39:13 INFO  BaseMethods:47 - insiderLogo waited until visible.
+2025-06-05 23:39:13 INFO  BaseMethods:47 - exploreInsiderTitle waited until visible.
+2025-06-05 23:39:13 INFO  BaseMethods:47 - companyDropdownBtn waited until visible.
+2025-06-05 23:39:13 INFO  HomePage:16 - Homepage successfully loaded and checked.
+2025-06-05 23:39:13 INFO  InsiderWebUITest:42 - Company menüsünden Career sayfasına gidiliyor.
+2025-06-05 23:39:13 INFO  BaseMethods:34 - companyDropdownBtn element clicked.
+2025-06-05 23:39:13 INFO  BaseMethods:47 - careerDropdownBtn waited until visible.
+2025-06-05 23:39:14 INFO  BaseMethods:34 - careerDropdownBtn element clicked.
+2025-06-05 23:39:14 INFO  HomePage:23 - Navigated to Career page from dropdown.
+2025-06-05 23:39:14 INFO  InsiderWebUITest:45 - Career sayfası kontrol ediliyor.
+2025-06-05 23:39:14 INFO  BaseMethods:55 - loadMoreBtn scrolled into view.
+2025-06-05 23:39:14 INFO  BaseMethods:135 - loadMoreBtn clicked with JavaScript.
+2025-06-05 23:39:16 INFO  BaseMethods:47 - teamsSection waited until visible.
+2025-06-05 23:39:16 INFO  BaseMethods:55 - locationsTitle scrolled into view.
+2025-06-05 23:39:16 INFO  BaseMethods:47 - locationsSection waited until visible.
+2025-06-05 23:39:16 INFO  BaseMethods:55 - lifeatInsiderTitle scrolled into view.
+2025-06-05 23:39:16 INFO  BaseMethods:47 - lifeatInsiderSection waited until visible.
+2025-06-05 23:39:16 INFO  InsiderWebUITest:48 - Quality Assurance iş arama sayfasına gidiliyor.
+2025-06-05 23:39:17 INFO  BaseMethods:141 - Navigated to: https://useinsider.com/careers/quality-assurance/
+2025-06-05 23:39:17 INFO  BaseMethods:47 - seeAllJobsBtn waited until visible.
+2025-06-05 23:39:17 INFO  BaseMethods:55 - seeAllJobsBtn scrolled into view.
+2025-06-05 23:39:18 INFO  BaseMethods:34 - seeAllJobsBtn element clicked.
+2025-06-05 23:39:18 INFO  CareerPage:26 - Going to Career Open Position screen
+2025-06-05 23:39:18 INFO  InsiderWebUITest:51 - İş filtreleri uygulanıyor.
+2025-06-05 23:39:28 INFO  BaseMethods:47 - checkSearchPageisOpen waited until visible.
+2025-06-05 23:39:28 INFO  BaseMethods:34 - locationFilterBox element clicked.
+2025-06-05 23:39:28 INFO  BaseMethods:34 - selectIstanbulLocation element clicked.
+2025-06-05 23:39:29 INFO  BaseMethods:34 - departmentFilterBox element clicked.
+2025-06-05 23:39:29 INFO  BaseMethods:34 - selectQualityAssuranceDepartment element clicked.
+2025-06-05 23:39:29 INFO  InsiderWebUITest:54 - İş listesi varlığı kontrol ediliyor.
+2025-06-05 23:39:29 INFO  BaseMethods:55 - sectionOfThePositionArea scrolled into view.
+2025-06-05 23:39:29 INFO  BaseMethods:47 - sectionOfThePositionArea waited until visible.
+2025-06-05 23:39:29 INFO  BaseMethods:47 - sectionCarrerListTitle waited until visible.
+2025-06-05 23:39:29 INFO  InsiderWebUITest:57 - İş detayları kontrol ediliyor.
+2025-06-05 23:39:29 INFO  BaseMethods:47 - jobsPositionTitles waited until visible.
+2025-06-05 23:39:29 INFO  BaseMethods:173 - Item 1: 'Senior Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 23:39:29 INFO  BaseMethods:173 - Item 2: 'Software Quality Assurance Engineer' contains expected value: Quality Assurance
+2025-06-05 23:39:29 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 23:39:29 INFO  BaseMethods:201 - Saved last job value for jobsPositionTitles: Software Quality Assurance Engineer
+2025-06-05 23:39:29 INFO  BaseMethods:173 - Item 1: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 23:39:29 INFO  BaseMethods:173 - Item 2: 'Quality Assurance' contains expected value: Quality Assurance
+2025-06-05 23:39:29 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 23:39:29 INFO  BaseMethods:201 - Saved last job value for jobsPositionDepartment: Quality Assurance
+2025-06-05 23:39:29 INFO  BaseMethods:173 - Item 1: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 23:39:29 INFO  BaseMethods:173 - Item 2: 'Istanbul, Turkiye' contains expected value: Istanbul, Turkiye
+2025-06-05 23:39:29 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 23:39:29 INFO  BaseMethods:201 - Saved last job value for jobsPositionLocation: Istanbul, Turkiye
+2025-06-05 23:39:30 INFO  InsiderWebUITest:60 - İşin detay sayfasına gidiliyor.
+2025-06-05 23:39:30 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 23:39:31 INFO  BaseMethods:213 - viewRoleButton element was hovered
+2025-06-05 23:39:31 INFO  BaseMethods:28 - Size of job list updated to: 2
+2025-06-05 23:39:31 INFO  BaseMethods:225 - viewRoleButton element clicked
+2025-06-05 23:39:31 INFO  SearchPage:40 - Seçilen Job ekranına gidiliyor
+2025-06-05 23:39:31 INFO  InsiderWebUITest:63 - İş detay sayfası kontrol ediliyor.
+2025-06-05 23:39:31 INFO  BaseMethods:91 - Switched to second tab.
+2025-06-05 23:39:37 INFO  JobLeverPage:26 - İş başvuru formu sayfasına başarıyla yönlenildi.
+2025-06-05 23:39:37 INFO  InsiderWebUITest:66 - Test başarıyla tamamlandı.

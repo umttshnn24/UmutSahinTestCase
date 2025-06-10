@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="PetStore API Suite">
+    <test name="Pet Tests Positive">
+        <classes>
+            <class name="tests.PetApiPositiveTests"/>
+        </classes>
+    </test>
+    <test name="Pet Tests Negative">
+    <classes>
+        <class name="tests.PetApiNegativeTests"/>
+    </classes>
+    </test>
+</suite>

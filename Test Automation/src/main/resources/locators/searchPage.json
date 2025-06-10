@@ -1,0 +1,67 @@
+[
+  {
+    "key": "locationFilterBox",
+    "value": "#filter-by-location + span",
+    "type": "css"
+  },
+  {
+    "key": "departmentFilterBox",
+    "value": "select2-filter-by-department-container",
+    "type": "id"
+  },
+  {
+    "key": "selectIstanbulLocation",
+    "value": "//li[contains(@id,'Istanbul')]",
+    "type": "xpath"
+  },
+  {
+    "key": "selectQualityAssuranceDepartment",
+    "value": "//li[contains(@id,'Quality Assurance')]",
+    "type": "xpath"
+  },
+  {
+    "key": "sectionOfThePositionArea",
+    "value": "jobs-list",
+    "type": "id"
+  },
+  {
+    "key": "jobsPositionTitles",
+    "value": "p.position-title",
+    "type": "css"
+  },
+  {
+    "key": "sectionCarrerListTitle",
+    "value": "section#career-position-list h3",
+    "type": "css"
+  },
+  {
+    "key": "jobsPositionDepartment",
+    "value": "span.position-department",
+    "type": "css"
+  },
+  {
+    "key": "jobsPositionLocation",
+    "value": "div.position-location",
+    "type": "css"
+  },
+  {
+    "key": "viewRoleButton",
+    "value": "div.position-list div a",
+    "type": "css"
+  },
+  {
+    "key": "checkSearchPageisOpen",
+    "value": "//span[@title='Quality Assurance']",
+    "type": "xpath"
+  },
+  {
+    "key": "locationFilterBtn",
+    "value": "select2-filter-by-location-container",
+    "type": "id"
+  },
+  {
+    "key": "locationOptionIstanbul",
+    "value": "//*[@id='select2-filter-by-location-result-0uvn-Istanbul, Turkiye']",
+    "type": "xpath"
+  }
+]
